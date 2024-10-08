@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Tic-Tac-Toe-game": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
